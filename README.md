@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://zenveil.dev/logo.png" alt="ZenVeil" width="72" />
+<img src="https://zenveil.dev/shield.svg" alt="ZenVeil" width="72" />
 
 # ZenVeil
 
